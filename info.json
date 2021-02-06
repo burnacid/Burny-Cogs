@@ -1,0 +1,8 @@
+{
+    "author" : ["Burnacid"],
+    "install_msg" : "Thanks for using my cogs!\nFor issues, bugs, or suggestions contact me through github here: <https://github.com/burnacid>",
+    "name" : "Burny-cogs",
+    "short" : "Cogs by Burnacid.",
+    "description" : "This is the Cog Repository from Burnacid",
+    "tags" : ["Fun", "Utility", "Trigger"]
+}
